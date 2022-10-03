@@ -6,6 +6,7 @@
 2. `pip install -r requirements.txt`
 3. Download [Chrome](https://www.google.com/chrome/) 
 4. Download [chromedriver](https://chromedriver.chromium.org/downloads)
+
 5.put phone no in 57 line or use online otp number sender after otp enters you must click on verify button and all processs will automtically take and after all process click next and next button.
 
 Run g.py or click on g.py 

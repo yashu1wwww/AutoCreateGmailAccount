@@ -6,16 +6,18 @@ https://youtu.be/848FJJsrlig
 
 ### Preparation
 
-1. Python 3.x
-2. `pip install -r requirements.txt`
-3. Download [Chrome](https://www.google.com/chrome/) 
-4. Download [chromedriver](https://chromedriver.chromium.org/downloads)
+After download the folder extract it and open cmd and enter python if you installed python you will find the python version(if latest version of python is available means download it..)
 
-5.replace phone number in 57 line or use online otp number after in otp section you must enter otp within 15 seconds remainig process will go automatic.........
+open cmd and enter  
+pip install -r requirements.txt
 
-enter g.py in that particular folder in cmd or double click on g.py ...
+download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
 
-You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. There is only one thing that I need remind you. Username should be <u>Firstname + Lastname + 5 numbers</u>  Sometimes, Username would be mistook to be very long. If this occurs, please stop the script immediately and restart it.
+in g.py file replace phone number in 57 line or use online otp number after in otp section you must enter otp within 15 seconds remainig process will go automatic.
+
+enter g.py in that particular folder in cmd or double click on g.py file
+
+You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. There is only one thing that I need remind you. Username should be <u>Firstname + Lastname + 5 numbers</u>  Sometimes, Username would be mistook to be very long.
 
 👉Note:-
 

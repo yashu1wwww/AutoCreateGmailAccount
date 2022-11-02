@@ -54,22 +54,29 @@ class CreateGmail:
         self._browser.find_element_by_css_selector(r'div[id="accountDetailsNext"]').click()
         self._browser.implicitly_wait(10)
         
-        self._browser.find_element_by_css_selector('#phoneNumberId').send_keys("9111111111") 
+        self._browser.find_element_by_css_selector('#phoneNumberId').send_keys("6363612355") #replace with your phone number 
         time.sleep(2)
         self._browser.find_element_by_css_selector('#view_container > div > div > div.pwWryf.bxPAYd > div > div.zQJV3 > div > div.qhFLie > div > div > button > span').click()
         time.sleep(15)
-        #enter otp within 15 seconds and click on verify button all are automatic means what we do 
+        #enter otp within 15 seconds.....remaining all with go automatic.....
+        self._browser.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span').click()
+        time.sleep(2)
         self._browser.find_element_by_css_selector(
                 "#month > option:nth-child(%d)" % random.randint(1, 13)
-            ).click()
-        self._browser.find_element_by_css_selector(r'#day').send_keys("25")
+           ).click()
+        self._browser.find_element_by_css_selector(r'#day').send_keys("20")
         time.sleep(2)
-        self._browser.find_element_by_css_selector(r'#year').send_keys("1995")
+        self._browser.find_element_by_css_selector(r'#year').send_keys("1994")
         time.sleep(3)
         sex = self._browser.find_element_by_xpath("//*[@id='gender']/option[2]")
         sex.click()
-        time.sleep(50)
+        self._browser.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span').click()
+        time.sleep(4)
         #webdriver.close()
+        self._browser.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/div/div[2]/div[2]/div[1]/div/div/button/span').click()
+        time.sleep(3)
+        self._browser.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div[1]/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button/span').click()
+        time.sleep(30)
 
     @staticmethod         
     def GetUserInfo (firstnamefile, lastnamefile):
@@ -114,6 +121,4 @@ if __name__ == "__main__":
         time.sleep(10)
 
             
-            
-    
-            
+

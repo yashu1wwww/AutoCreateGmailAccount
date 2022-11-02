@@ -11,9 +11,9 @@ https://youtu.be/848FJJsrlig
 3. Download [Chrome](https://www.google.com/chrome/) 
 4. Download [chromedriver](https://chromedriver.chromium.org/downloads)
 
-5.put phone number in 57 line or use online otp number after in otp section you must enter otp within 15 seconds remainig process will go automatic.........
+5.replace phone number in 57 line or use online otp number after in otp section you must enter otp within 15 seconds remainig process will go automatic.........
 
-Run g.py  
+enter g.py in that particular folder in cmd or double click on g.py ...
 
 You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. There is only one thing that I need remind you. Username should be <u>Firstname + Lastname + 5 numbers</u>  Sometimes, Username would be mistook to be very long. If this occurs, please stop the script immediately and restart it.
 

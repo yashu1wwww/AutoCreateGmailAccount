@@ -6,6 +6,10 @@ https://youtu.be/848FJJsrlig
 
 ### Preparation
 
+note:-please note the password where password will enters automatically and at last you will find gmail address note that...
+
+use proxy to avoid accounts ban from google....
+
 After download the folder extract it and open cmd and enter python if you installed python you will find the python version(if latest version of python is available means download it..)
 
 open cmd and enter  

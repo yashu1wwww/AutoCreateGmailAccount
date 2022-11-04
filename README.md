@@ -4,7 +4,11 @@
 
 https://youtu.be/848FJJsrlig
 
-### Preparation
+here you find g.py and guc.py 
+
+g.py is make auto gmail accounts faster...
+guc.py makes chromedriver unhide and undetect from google and creates auto gmail account...
+
 
 note:-please note or copy the password where password will enters automatically and at last you will find gmail address note that(or the created accounts will save in created accounts in microsoft excel) ...
 

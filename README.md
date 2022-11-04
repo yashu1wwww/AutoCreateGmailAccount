@@ -21,7 +21,9 @@ in g.py file replace phone number in 57 line or use online otp number after in o
 
 enter g.py in that particular folder in cmd or double click on g.py file
 
-You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. There is only one thing that I need remind you. Username should be <u>Firstname + Lastname + 5 numbers</u>  Sometimes, Username would be mistook to be very long.
+You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. 
+
+in guc.py its undetect chrome and make gmails for that 
 
 👉Note:-
 

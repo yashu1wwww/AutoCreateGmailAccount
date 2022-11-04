@@ -23,7 +23,13 @@ enter g.py in that particular folder in cmd or double click on g.py file
 
 You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. 
 
-in guc.py its undetect chrome and make gmails for that 
+in guc.py its undetect chrome and make gmails for that replace phone number in 64 line and otp will be enter you only within 15 seconds..
+
+open cmd and enter 
+
+pip install undetected_chromedriver
+
+thats all enjoy the bot.....
 
 👉Note:-
 

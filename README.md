@@ -6,7 +6,7 @@ https://youtu.be/848FJJsrlig
 
 ### Preparation
 
-note:-please note the password where password will enters automatically and at last you will find gmail address note that...
+note:-please note or copy the password where password will enters automatically and at last you will find gmail address note that(or the created accounts will save in created accounts in microsoft excel) ...
 
 use proxy to avoid accounts ban from google....
 
@@ -28,6 +28,14 @@ in guc.py its undetect chrome and make gmails for that replace phone number in 6
 open cmd and enter 
 
 pip install undetected_chromedriver
+
+and hit enter button 
+
+and again enter
+
+pip install -r requirements.txt
+
+and hit enter button..
 
 thats all enjoy the bot.....
 

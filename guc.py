@@ -25,11 +25,6 @@ class CreateGmail:
         self._Donefile = open("./data/CreatedAccounts.csv", "a")
         self.Initialize()
 
-    #def Initialize(self):
-        #self._browser = webdriver.Chrome()
-        #self._browser.delete_all_cookies()
-        #self._browser.get("https://accounts.google.com/SignUp?hl=en")
-
     def Initialize(self):
         driver = uc.Chrome(use_subprocess=True)
         wait = WebDriverWait(driver,20)

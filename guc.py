@@ -71,9 +71,9 @@ class CreateGmail:
         self._browser.find_element_by_css_selector(
                 "#month > option:nth-child(%d)" % random.randint(1, 13)
            ).click()
-        self._browser.find_element_by_css_selector(r'#day').send_keys("20")
+        self._browser.find_element_by_css_selector(r'#day').send_keys("20")  #change day when you create more than 5+ accounts
         time.sleep(2)
-        self._browser.find_element_by_css_selector(r'#year').send_keys("1994")
+        self._browser.find_element_by_css_selector(r'#year').send_keys("1994")  #change year when you create more than 5+ accounts
         time.sleep(2)
         sex = self._browser.find_element_by_xpath("//*[@id='gender']/option[2]")
         sex.click()

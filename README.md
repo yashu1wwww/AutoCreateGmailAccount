@@ -8,27 +8,23 @@ https://youtu.be/c9MAJpax5R0
 
 https://youtu.be/848FJJsrlig
 
-here you find g.py and guc.py 
+Here, you will find g.py and guc.py.
 
-g.py is make auto gmail accounts faster...
-guc.py makes chromedriver unhide and undetect from google and creates auto gmail account....(where it opens two tab one tab after its opens another tab and create automatic gmail account)
+g.py makes creating auto Gmail accounts faster...
 
-note:-please note or copy the password where password will enters automatically and at last you will find gmail address note that(or the created accounts will save in created accounts in microsoft excel) ...
+guc.py makes Chromedriver unhide and undetectable by Google, and creates auto Gmail accounts. It opens two tabs: one to open the other and create an automatic Gmail account. Please note or copy the password, which will enter automatically. Finally, you will find the Gmail address. Note that the created accounts will save in created accounts in Microsoft Excel.
 
-After download the folder extract it and open cmd and enter python if you installed python you will find the python version(if latest version of python is available means download it..)
+After downloading the folder, extract it, open the cmd and enter "python" to check the installed Python version. If the latest version of Python is available, download it.
 
-open cmd and enter  
-pip install -r requirements.txt
+Open the cmd and enter "pip install -r requirements.txt."
 
-download the chromedriver(https://chromedriver.chromium.org/downloads extract these to downloaded folder)and with matches your chrome version of your pc and
+Download the Chromedriver from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder, and match it with your Chrome version on your PC.
 
-in g.py file replace phone number in 57 line or use online otp number after in otp section you must enter otp within 15 seconds remainig process will go automatic.
+In the g.py file, replace the phone number on line 57 or use an online OTP number. After entering the OTP, you must enter it within 15 seconds; the remaining process will go automatically.
 
-enter g.py in that particular folder in cmd or double click on g.py file
+Enter "g.py" in that particular folder in the cmd or double-click on the "g.py" file. You do not need to do anything here. It automatically generates popular names for creating Gmail accounts.
 
-You do not need to do anything here. It automaticlly generates popular names for creating gmail accounts. 
-
-in guc.py its undetect chrome and make gmails for that replace phone number in 64 line and otp will be enter you only within 15 seconds..
+In guc.py, it undetects Chrome and creates Gmail accounts. To replace the phone number on line 64, the OTP will be entered by you within 15 seconds.
 
 open cmd and enter 
 

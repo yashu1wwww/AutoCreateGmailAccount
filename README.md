@@ -16,7 +16,7 @@ guc.py makes Chromedriver unhide and undetectable by Google, and creates auto Gm
 
 After downloading the folder, extract it, open the cmd and enter "python" to check the installed Python version. If the latest version of Python is available, download it.
 
-Open the cmd and enter "pip install -r requirements.txt."
+Open the cmd and enter `pip install -r "requirements.txt"`
 
 Download the Chromedriver from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder, and match it with your Chrome version on your PC.
 
@@ -28,13 +28,13 @@ In guc.py, it undetects Chrome and creates Gmail accounts. To replace the phone 
 
 open cmd and enter 
 
-pip install undetected_chromedriver
+`pip install undetected_chromedriver`
 
 and hit enter button 
 
 and again enter
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 and hit enter button..
 
@@ -48,13 +48,13 @@ thats all enjoy the bot.....
 
 And enter
 
-pip install selenium==4.2.1 or pip install selenium==4.2.0
+`pip install selenium==4.2.1 or pip install selenium==4.2.0`
 
 and hit enter
 
 and
 
-python -c "import selenium; print(selenium.version)"
+`python -c "import selenium; print(selenium.version)"`
 
 These Project Is Only For Reference Use Dont Use In large Scale.
 

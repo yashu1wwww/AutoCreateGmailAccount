@@ -14,6 +14,8 @@ g.py makes creating auto Gmail accounts faster...
 
 guc.py makes Chromedriver unhide and undetectable by Google, and creates auto Gmail accounts. It opens two tabs: one to open the other and create an automatic Gmail account. Please note or copy the password, which will enter automatically. Finally, you will find the Gmail address. Note that the created accounts will save in created accounts in Microsoft Excel.
 
+## "If you know how to automate OTP entry, then fork it."
+
 After downloading the folder, extract it, open the cmd and enter "python" to check the installed Python version. If the latest version of Python is available, download it.
 
 Open the cmd and enter "pip install -r requirements.txt."

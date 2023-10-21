@@ -4,10 +4,6 @@
 
 https://youtu.be/c9MAJpax5R0
 
-👉Auto Google Account Create
-
-https://youtu.be/848FJJsrlig
-
 Here, you will find g.py and guc.py.
 
 g.py makes creating auto Gmail accounts faster...

@@ -22,7 +22,7 @@ In the g.py file, replace the phone number on line 57 or use an online OTP numbe
 
 Enter "g.py" in that particular folder in the cmd or double-click on the "g.py" file. You do not need to do anything here. It automatically generates popular names for creating Gmail accounts.
 
-In guc.py, it undetects Chrome and creates Gmail accounts. To replace the phone number on line 64, the OTP will be entered by you within 15 seconds.
+# In guc.py, it undetects Chrome and creates Gmail accounts. To replace the phone number on line 64, the OTP will be entered by you within 15 seconds.
 
 open cmd and enter 
 

@@ -4,39 +4,10 @@
 
 https://youtu.be/c9MAJpax5R0
 
-Here, you will find g.py and guc.py.
-
-g.py makes creating auto Gmail accounts faster...
-
-guc.py makes Chromedriver unhide and undetectable by Google, and creates auto Gmail accounts. It opens two tabs: one to open the other and create an automatic Gmail account. Please note or copy the password, which will enter automatically. Finally, you will find the Gmail address. Note that the created accounts will save in created accounts in Microsoft Excel.
 
 ## "If you know how to automate OTP entry, then fork it."
 
-After downloading the folder, extract it, open the cmd and enter "python" to check the installed Python version. If the latest version of Python is available, download it.
 
-Open the cmd and enter "pip install -r requirements.txt."
-
-Download the Chromedriver from https://chromedriver.chromium.org/downloads, extract it to the downloaded folder, and match it with your Chrome version on your PC.
-
-In the g.py file, replace the phone number on line 57 or use an online OTP number. After entering the OTP, you must enter it within 15 seconds; the remaining process will go automatically.
-
-Enter "g.py" in that particular folder in the cmd or double-click on the "g.py" file. You do not need to do anything here. It automatically generates popular names for creating Gmail accounts.
-
-# In guc.py, it undetects Chrome and creates Gmail accounts. To replace the phone number on line 64, the OTP will be entered by you within 15 seconds.
-
-open cmd and enter 
-
-pip install undetected_chromedriver
-
-and hit enter button 
-
-and again enter
-
-pip install -r requirements.txt
-
-and hit enter button..
-
-thats all enjoy the bot.....
 
 👉Note:-
 

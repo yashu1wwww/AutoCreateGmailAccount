@@ -1,19 +1,26 @@
 ## Auto Create Gmail Accounts
 
+Auto Gmail Account Create Using Selenium with python
+
 👉𝐀𝐟𝐭𝐞𝐫 𝐓𝐰𝐨 𝐨𝐫 𝐦𝐨𝐫𝐞 𝐜𝐨𝐦𝐩𝐢𝐥𝐞 𝐨𝐟 𝐛𝐨𝐭𝐬 𝐖𝐚𝐭𝐜𝐡 𝐓𝐡𝐞𝐬𝐞 𝐕𝐢𝐝𝐞𝐨 𝐀𝐧𝐝 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐕𝐩𝐧 𝐚𝐧𝐝 𝐫𝐮𝐧
 
 https://youtu.be/c9MAJpax5R0
 
+Replace day,year,gender and phone no in 133 line..
+
+Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. 
+
+Place the extracted file in the appropriate folder. Open cmd in that particular folder and enter g.py or double click on g.py file to run the program
 
 ## "If you know how to automate OTP entry, then fork it."
-
-
 
 👉Note:-
 
 👉if your selenium version is in latest version then the code never run
 
-👉open cmd and enter pip uninstall selenium
+👉open cmd and enter 
+
+pip uninstall selenium
 
 And enter
 

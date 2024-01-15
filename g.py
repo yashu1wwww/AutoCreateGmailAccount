@@ -119,7 +119,7 @@ time.sleep(1)
 driver.find_element_by_xpath("//select[@id='gender']/option[@value='2']").click() #select the gender you can select 4 value
 time.sleep(2)
 driver.find_element_by_xpath('//*[@id="birthdaygenderNext"]/div/button').click() #next button 
-time.sleep(2)          
+time.sleep(7)          
 driver.find_element_by_xpath('//*[@id="view_container"]/div/div/div[2]/div/div[1]/div/form/span/section/div/div/div[1]/div[1]/div/span/div[2]/div/div[1]/div/div[3]/div').click()  #it will choose an email(out of 3 it will choose 1)
 time.sleep(2)
 driver.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div/div[2]/div/div[2]/div/div[1]/div/div/button').click()

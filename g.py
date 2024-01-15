@@ -106,9 +106,9 @@ driver.get("https://accounts.google.com/SignUp?hl=en")
 time.sleep(2)
 driver.find_element_by_name("firstName").send_keys(random.choice(firstname))
 time.sleep(1)
-driver.find_element_by_name("lastName").send_keys(random.choice(lastname))
-time.sleep(1)
-driver.find_element_by_xpath('//*[@id="collectNameNext"]/div/button').click() #click on next button
+last_name=driver.find_element_by_name("lastName")
+last_name.send_keys(random.choice(lastname))
+last_name.send_keys(Keys.ENTER) #next button
 time.sleep(1)
 driver.find_element_by_xpath("//select[@id='month']/option[@value='1']").click() #select the month you can change the value upto 12
 time.sleep(2)
@@ -126,15 +126,15 @@ driver.find_element_by_xpath('/html/body/div[1]/div[1]/div[2]/div/div[2]/div/div
 time.sleep(2)
 driver.find_element_by_name("Passwd").send_keys("Pass123@#$%") #Password choose which you want
 time.sleep(2)
-driver.find_element_by_name("PasswdAgain").send_keys("Pass123@#$%") #same password again 
-time.sleep(2)      
-driver.find_element_by_xpath('//*[@id="createpasswordNext"]/div/button').click() #click on next button
+repeat_pswd=driver.find_element_by_name("PasswdAgain")
+repeat_pswd.send_keys("Pass123@#$%") #same password again 
+repeat_pswd.send_keys(Keys.ENTER) #next button
 time.sleep(2) 
-driver.find_element_by_css_selector("#phoneNumberId").send_keys("9000000000") #replace with ph no
-time.sleep(2)
-driver.find_element_by_xpath('//*[@id="view_container"]/div/div/div[2]/div/div[2]/div/div/div/div/button').click() #click on next button
+ph_no=driver.find_element_by_css_selector("#phoneNumberId")
+ph_no.send_keys("9000000000") #replace with ph no
+ph_no.send_keys(Keys.ENTER) #next button
 #enter otp
 #then it ask next button,skip,skip,agree button
-time.sleep(30) #note down the email and password..
+time.sleep(40) #note down the email and password..
 
 

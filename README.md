@@ -6,7 +6,7 @@ Auto Gmail Account Create Using Selenium with python
 
 https://youtu.be/c9MAJpax5R0
 
-Replace day,year,gender and phone no in 133 line..
+Replace date,month and required from 113 line...
 
 Download the latest version of Chrome Driver from https://chromedriver.chromium.org/ and extract the file. 
 

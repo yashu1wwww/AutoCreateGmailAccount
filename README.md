@@ -10,7 +10,7 @@ Place the extracted file in the appropriate folder. Open cmd in that particular 
 
 ## "If you know how to automate OTP entry, then fork it."
 
-# 👉 Note:Every time chrome updates the code, it varies. So, open the google account create and press 'Ctrl+Shift+C' to open the developer tools
+## 👉 Note:Every time chrome updates the code, it varies. So, open the google and press 'Ctrl+Shift+C' to open the developer tools
 
 👉if your selenium version is in latest version then the code never run
 
